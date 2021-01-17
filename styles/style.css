@@ -1,0 +1,142 @@
+*{
+    margin:0;
+    padding:0;
+    border: 0;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+a{
+    text-decoration: none;
+}
+
+#card{
+    width:260px;
+    background:#ffffff;
+    padding:3px 0px;
+    margin:10px;
+    box-shadow: 4px 4px 13px #484948;
+    display: inline-block;
+    position: relative;
+}
+
+
+.banner_div{
+    background: url(../img/imagen.jpg);
+    height: 335px;
+    background-repeat: no-repeat;
+    background-position: center; 
+    border-radius: 25px;  
+}
+
+.button{
+    background: #d30404;
+    font-size: 0.82rem;
+    margin-top: 1px;
+    padding: 8px 0px 8px 0px;
+    text-align: center;
+    width: 100px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bolder;
+    margin-left: 55px;
+    margin-right: 100px;
+    margin-bottom: 1rem;
+}
+
+.flaticon-alfiler{
+    color:white;
+}
+
+.inf{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-size: 9px;
+    font-weight: bolder;
+    position: absolute;
+    margin-left:1.4rem;
+}
+
+a.inf2{
+    text-decoration: none;
+    color: rgb(100, 112, 124);
+    font-size: 13.2px;
+    position: absolute;
+    margin-top:5px;
+}
+
+
+.in {
+    font-weight: bold;
+    display: inline-flex;
+}
+
+h3 {
+    margin-top:1.03rem; 
+    margin-bottom: 5px;
+    font-size:1.05rem;
+    line-height: 1px;
+    padding: 0;
+    position: absolute;
+}
+
+.abajo{
+    position: relative;
+    margin-top: 2rem;
+    font-size: .9rem;
+}
+
+.botones{
+    display:inline-flex;
+    justify-content: space-between;
+    margin-left: 0.98rem;
+    margin-top: 8px;
+}
+
+.btn_blanco{
+    background: white;
+    padding:6.5px;
+    border-radius: 4px;
+    margin-left: 0.3rem;
+}
+
+.webeel{
+    margin-top:258px;
+}
+
+.left{
+    margin-left: 1rem;
+}
+
+.contenedor_1{
+    display: inline-bock;
+    margin-top:5px;
+    font-size: 13px;
+}
+
+h5{
+    font-weight: normal;
+}
+
+.contenedor_1
+{
+    display: flex;
+    border-radius: 1rem;
+    justify-content: left;
+    width:100%;
+}
+
+.foto img{
+    width: 1.9rem;
+}
+
+.foto {
+    width: 73%;
+    margin:auto;
+}
+
+.textos {
+    width:500%;
+    margin: auto;
+}
